@@ -1,4 +1,4 @@
-﻿hello git, hello word! hotfix 分支
+﻿hello git, hello word! master分支
 hello git, hello word!
 hello git, hello word!
 hello git, hello word!
