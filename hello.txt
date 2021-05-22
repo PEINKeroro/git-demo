@@ -6,4 +6,5 @@ hello git, hello word!
 hello git, hello word!
 hello git, hello word!
 hello git, hello word!
-hello git, hello word!
+你好git，你好字！
+更改远程库代码
